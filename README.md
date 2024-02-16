@@ -19,7 +19,9 @@ Activate the environment
 
     conda activate PRS-Net
 
-## **Download example dataset**
+## **Data preprocessing**
+TBD!
+
 We upload an example dataset at [[https://figshare.com/s/8bbb8cad9ac644bf9caa](https://cloud.tsinghua.edu.cn/f/30a1c8df0c024fefa3c1/?dl=1)].
 
 Unzip the file and put it in example_dataset/.
